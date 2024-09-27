@@ -1,0 +1,3 @@
+# Ignore all files with the given r-patterns, file extensions, file names, and directories
+.vscode/
+.DS_Store
